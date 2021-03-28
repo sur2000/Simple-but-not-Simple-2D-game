@@ -1,5 +1,3 @@
-
-//Made by Sur Shri
 //2D game project using Processing IDE
 //Simple but not Simple 
 
@@ -9,7 +7,8 @@ Notes:
 
 - Well its not that hard. Its all about the right time to press the UP ARROW or SPACE BAR key. ENJOY!
   
-- The background melody is "Goose house - Hikaru nara [Shigatsu wa Kimi no Uso]"
+- The background melody is "Goose house - Hikaru nara [Shigatsu wa Kimi no Uso]" 
+ (I havent uploaded this file/song here in the data folder, as its size was very large. It should be in .wav  format)
 
 - The obstacleSpawner is incredibly long. It definitely works though. 
   And whether you lose a few times, but you cant miss out to listen the amazing "Anime soundtrack" I have used, can you? 
